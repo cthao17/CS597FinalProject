@@ -23006,7 +23006,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4350790739652618}
   m_Layer: 0
-  m_Name: Parkgarage_prefab
+  m_Name: Parking Garage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
